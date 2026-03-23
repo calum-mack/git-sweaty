@@ -21293,6 +21293,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17805466716",
       "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 12,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17819197160",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42022,6 +42031,15 @@
           "distance": 11022.5,
           "elevation_gain": 49.2,
           "moving_time": 3951.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17819197160"
+          ],
+          "count": 1,
+          "distance": 5159.1,
+          "elevation_gain": 28.6,
+          "moving_time": 1875.0
         }
       },
       "WeightTraining": {
@@ -42289,7 +42307,7 @@
       }
     }
   },
-  "generated_at": "2026-03-22T15:18:29.053362+00:00",
+  "generated_at": "2026-03-23T15:53:42.315087+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
