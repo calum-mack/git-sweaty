@@ -21599,6 +21599,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18285619095",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 13,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18298175646",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42537,6 +42546,15 @@
           "distance": 4047.8,
           "elevation_gain": 5.0,
           "moving_time": 1664.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18298175646"
+          ],
+          "count": 1,
+          "distance": 13176.8,
+          "elevation_gain": 41.8,
+          "moving_time": 3761.0
         }
       },
       "WeightTraining": {
@@ -42903,7 +42921,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T16:47:31.652526+00:00",
+  "generated_at": "2026-04-29T16:24:37.276953+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
