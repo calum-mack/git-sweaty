@@ -21626,6 +21626,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18340944266",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 14,
+      "name": "home",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18352661573",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42003,6 +42012,15 @@
           "distance": 29754.2,
           "elevation_gain": 154.0,
           "moving_time": 4272.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18352661573"
+          ],
+          "count": 1,
+          "distance": 23926.7,
+          "elevation_gain": 254.0,
+          "moving_time": 3900.0
         }
       },
       "Run": {
@@ -42957,7 +42975,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:38:38.919952+00:00",
+  "generated_at": "2026-05-03T15:38:51.368381+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
