@@ -21833,6 +21833,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18642098126",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 12,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18653319620",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43367,11 +43376,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3869.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18653319620"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3730.0
         }
       }
     }
   },
-  "generated_at": "2026-05-25T16:59:54.175346+00:00",
+  "generated_at": "2026-05-26T17:52:00.020186+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
