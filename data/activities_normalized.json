@@ -31588,5 +31588,44 @@
     "start_date_local": "2026-05-28T11:28:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 2529.4,
+    "elevation_gain": 27.2,
+    "id": "18709330565",
+    "moving_time": 807.0,
+    "name": "WU",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-29T17:58:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 5018.6,
+    "elevation_gain": 40.6,
+    "id": "18709330575",
+    "moving_time": 1077.0,
+    "name": "LDR 5K",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-29T18:45:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 1673.9,
+    "elevation_gain": 18.8,
+    "id": "18709527043",
+    "moving_time": 589.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-29T19:23:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

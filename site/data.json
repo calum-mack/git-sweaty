@@ -21869,6 +21869,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18693357183",
       "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 17,
+      "name": "WU",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18709330565",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 18,
+      "name": "LDR 5K",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18709330575",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18709527043",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42996,6 +43023,17 @@
           "distance": 4621.7,
           "elevation_gain": 37.8,
           "moving_time": 1452.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18709330565",
+            "18709330575",
+            "18709527043"
+          ],
+          "count": 3,
+          "distance": 9221.9,
+          "elevation_gain": 86.6,
+          "moving_time": 2473.0
         }
       },
       "WeightTraining": {
@@ -43443,7 +43481,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:00:23.013669+00:00",
+  "generated_at": "2026-05-30T15:59:05.386610+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
