@@ -21896,6 +21896,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18709527043",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 19,
+      "name": "Evening Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18724264843",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42264,6 +42273,17 @@
       }
     },
     "2026": {
+      "Hike": {
+        "2026-05-30": {
+          "activity_ids": [
+            "18724264843"
+          ],
+          "count": 1,
+          "distance": 4631.3,
+          "elevation_gain": 406.8,
+          "moving_time": 4642.0
+        }
+      },
       "Ride": {
         "2026-04-18": {
           "activity_ids": [
@@ -43481,7 +43501,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T15:59:05.386610+00:00",
+  "generated_at": "2026-05-31T16:00:13.974784+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
