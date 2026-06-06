@@ -31653,5 +31653,31 @@
     "start_date_local": "2026-06-03T16:03:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 6617.7,
+    "elevation_gain": 14.8,
+    "id": "18801037395",
+    "moving_time": 2106.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-05T19:04:18Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 18275.2,
+    "elevation_gain": 566.6,
+    "id": "18810734235",
+    "moving_time": 12994.0,
+    "name": "Seaford to Eastbourne",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-06T10:21:22Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
