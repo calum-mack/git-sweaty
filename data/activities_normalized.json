@@ -31809,5 +31809,18 @@
     "start_date_local": "2026-06-17T19:04:31Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 8555.4,
+    "elevation_gain": 43.2,
+    "id": "18975168792",
+    "moving_time": 2775.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-18T19:44:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
