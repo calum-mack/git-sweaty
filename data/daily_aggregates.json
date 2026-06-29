@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T16:02:47.850966+00:00",
+  "generated_at": "2026-06-29T17:28:15.707453+00:00",
   "years": {
     "2019": {
       "Hike": {
@@ -21282,6 +21282,15 @@
           "distance": 6131.2,
           "elevation_gain": 16.2,
           "moving_time": 1956.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19100967406"
+          ],
+          "count": 1,
+          "distance": 9210.6,
+          "elevation_gain": 42.2,
+          "moving_time": 3061.0
         }
       },
       "WeightTraining": {
@@ -21779,6 +21788,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3371.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19112581838"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3243.0
         }
       }
     }
