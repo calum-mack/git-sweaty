@@ -32056,5 +32056,18 @@
     "start_date_local": "2026-07-09T20:21:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 10019.4,
+    "elevation_gain": 125.6,
+    "id": "19259266238",
+    "moving_time": 3510.0,
+    "name": "Nice",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-10T18:54:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
