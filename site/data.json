@@ -22238,6 +22238,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19340639187",
       "year": 2026
+    },
+    {
+      "date": "2026-07-17",
+      "hour": 20,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19353796990",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19360807337",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 14,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19362827901",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43621,6 +43648,24 @@
           "distance": 8942.4,
           "elevation_gain": 31.4,
           "moving_time": 2956.0
+        },
+        "2026-07-17": {
+          "activity_ids": [
+            "19353796990"
+          ],
+          "count": 1,
+          "distance": 8379.8,
+          "elevation_gain": 27.8,
+          "moving_time": 2690.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "19362827901"
+          ],
+          "count": 1,
+          "distance": 5280.9,
+          "elevation_gain": 29.4,
+          "moving_time": 1715.0
         }
       },
       "WeightTraining": {
@@ -44163,11 +44208,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2031.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "19360807337"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3485.0
         }
       }
     }
   },
-  "generated_at": "2026-07-17T16:08:10.848582+00:00",
+  "generated_at": "2026-07-18T15:45:18.263305+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
