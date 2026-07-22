@@ -22274,6 +22274,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19376080347",
       "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19407590976",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43684,6 +43693,15 @@
           "distance": 10976.1,
           "elevation_gain": 58.8,
           "moving_time": 3542.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19407590976"
+          ],
+          "count": 1,
+          "distance": 10271.9,
+          "elevation_gain": 52.6,
+          "moving_time": 2965.0
         }
       },
       "WeightTraining": {
@@ -44239,7 +44257,7 @@
       }
     }
   },
-  "generated_at": "2026-07-21T16:16:37.318817+00:00",
+  "generated_at": "2026-07-22T16:14:50.630599+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
