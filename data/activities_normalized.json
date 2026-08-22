@@ -32498,5 +32498,31 @@
     "start_date_local": "2026-08-21T09:10:15Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 15828.1,
+    "elevation_gain": 1256.6,
+    "id": "19850490534",
+    "moving_time": 8649.0,
+    "name": "Schesaplana",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-22T08:19:52Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19850713788",
+    "moving_time": 12300.0,
+    "name": "Schesaplana",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-22T03:00:39Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

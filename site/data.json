@@ -22499,6 +22499,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19836856197",
       "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 8,
+      "name": "Schesaplana",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19850490534",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 3,
+      "name": "Schesaplana",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19850713788",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42912,6 +42930,16 @@
           "distance": 16443.4,
           "elevation_gain": 968.6,
           "moving_time": 15154.0
+        },
+        "2026-08-22": {
+          "activity_ids": [
+            "19850490534",
+            "19850713788"
+          ],
+          "count": 2,
+          "distance": 15828.1,
+          "elevation_gain": 1256.6,
+          "moving_time": 20949.0
         }
       },
       "Ride": {
@@ -44689,7 +44717,7 @@
       }
     }
   },
-  "generated_at": "2026-08-21T15:24:00.453442+00:00",
+  "generated_at": "2026-08-22T15:11:28.519451+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
