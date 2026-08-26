@@ -22535,6 +22535,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19867019526",
       "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 7,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19895062979",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42968,6 +42977,15 @@
           "distance": 21034.1,
           "elevation_gain": 1218.8,
           "moving_time": 21263.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19895062979"
+          ],
+          "count": 1,
+          "distance": 27136.1,
+          "elevation_gain": 1599.6,
+          "moving_time": 25596.0
         }
       },
       "Ride": {
@@ -44745,7 +44763,7 @@
       }
     }
   },
-  "generated_at": "2026-08-25T15:33:33.952422+00:00",
+  "generated_at": "2026-08-26T16:10:17.316575+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
