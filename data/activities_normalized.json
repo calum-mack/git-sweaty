@@ -32563,5 +32563,18 @@
     "start_date_local": "2026-08-25T07:47:38Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 15184.5,
+    "elevation_gain": 107.4,
+    "id": "19954471444",
+    "moving_time": 4968.0,
+    "name": "Home",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-29T12:13:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
