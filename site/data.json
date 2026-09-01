@@ -22562,6 +22562,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19976870382",
       "year": 2026
+    },
+    {
+      "date": "2026-08-31",
+      "hour": 14,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19982187979",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-31",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19983789205",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43051,6 +43069,15 @@
           "distance": 41713.3,
           "elevation_gain": 372.0,
           "moving_time": 5533.0
+        },
+        "2026-08-31": {
+          "activity_ids": [
+            "19983789205"
+          ],
+          "count": 1,
+          "distance": 41367.4,
+          "elevation_gain": 385.0,
+          "moving_time": 5405.0
         }
       },
       "Run": {
@@ -44795,11 +44822,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3489.0
+        },
+        "2026-08-31": {
+          "activity_ids": [
+            "19982187979"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3007.0
         }
       }
     }
   },
-  "generated_at": "2026-08-31T20:30:04.597752+00:00",
+  "generated_at": "2026-09-01T18:03:51.955604+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
