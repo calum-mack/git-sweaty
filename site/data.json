@@ -22580,6 +22580,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19983789205",
       "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19997253566",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43078,6 +43087,15 @@
           "distance": 41367.4,
           "elevation_gain": 385.0,
           "moving_time": 5405.0
+        },
+        "2026-09-01": {
+          "activity_ids": [
+            "19997253566"
+          ],
+          "count": 1,
+          "distance": 45302.0,
+          "elevation_gain": 334.0,
+          "moving_time": 6136.0
         }
       },
       "Run": {
@@ -44835,7 +44853,7 @@
       }
     }
   },
-  "generated_at": "2026-09-01T18:03:51.955604+00:00",
+  "generated_at": "2026-09-02T18:14:18.502595+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
