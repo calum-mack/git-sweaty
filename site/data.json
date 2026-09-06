@@ -22625,6 +22625,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20038836857",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20051580940",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43132,6 +43141,15 @@
           "distance": 45302.0,
           "elevation_gain": 334.0,
           "moving_time": 6136.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20051580940"
+          ],
+          "count": 1,
+          "distance": 60082.9,
+          "elevation_gain": 522.0,
+          "moving_time": 10124.0
         }
       },
       "Run": {
@@ -44925,7 +44943,7 @@
       }
     }
   },
-  "generated_at": "2026-09-05T17:02:09.929141+00:00",
+  "generated_at": "2026-09-06T17:25:40.137530+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
