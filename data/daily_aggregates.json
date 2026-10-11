@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T19:03:48.394459+00:00",
+  "generated_at": "2026-10-11T19:16:31.746859+00:00",
   "years": {
     "2019": {
       "Hike": {
@@ -20442,6 +20442,17 @@
           "moving_time": 25596.0
         }
       },
+      "Pickleball": {
+        "2026-10-10": {
+          "activity_ids": [
+            "20534177205"
+          ],
+          "count": 1,
+          "distance": 1192.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2534.0
+        }
+      },
       "Ride": {
         "2026-04-18": {
           "activity_ids": [
@@ -21852,6 +21863,26 @@
           "distance": 11870.0,
           "elevation_gain": 27.0,
           "moving_time": 3476.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20532429199"
+          ],
+          "count": 1,
+          "distance": 10733.7,
+          "elevation_gain": 38.0,
+          "moving_time": 3607.0
+        }
+      },
+      "StairStepper": {
+        "2026-10-11": {
+          "activity_ids": [
+            "20544195076"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2867.0
         }
       },
       "TrailRun": {

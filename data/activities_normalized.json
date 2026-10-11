@@ -33109,5 +33109,44 @@
     "start_date_local": "2026-10-09T13:15:46Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 10733.7,
+    "elevation_gain": 38.0,
+    "id": "20532429199",
+    "moving_time": 3607.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-10T14:10:47Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 1192.0,
+    "elevation_gain": 0.0,
+    "id": "20534177205",
+    "moving_time": 2534.0,
+    "name": "Evening Pickleball",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pickleball",
+    "start_date_local": "2026-10-10T18:00:21Z",
+    "type": "Pickleball",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20544195076",
+    "moving_time": 2867.0,
+    "name": "Lunch Workout",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-10-11T11:01:52Z",
+    "type": "StairStepper",
+    "year": 2026
   }
 ]

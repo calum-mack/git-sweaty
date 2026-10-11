@@ -22922,6 +22922,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20518544431",
       "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 14,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20532429199",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 18,
+      "name": "Evening Pickleball",
+      "subtype": "Pickleball",
+      "type": "Pickleball",
+      "url": "https://www.strava.com/activities/20534177205",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-11",
+      "hour": 11,
+      "name": "Lunch Workout",
+      "subtype": "StairStepper",
+      "type": "StairStepper",
+      "url": "https://www.strava.com/activities/20544195076",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43366,6 +43393,17 @@
           "moving_time": 25596.0
         }
       },
+      "Pickleball": {
+        "2026-10-10": {
+          "activity_ids": [
+            "20534177205"
+          ],
+          "count": 1,
+          "distance": 1192.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2534.0
+        }
+      },
       "Ride": {
         "2026-04-18": {
           "activity_ids": [
@@ -44776,6 +44814,26 @@
           "distance": 11870.0,
           "elevation_gain": 27.0,
           "moving_time": 3476.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20532429199"
+          ],
+          "count": 1,
+          "distance": 10733.7,
+          "elevation_gain": 38.0,
+          "moving_time": 3607.0
+        }
+      },
+      "StairStepper": {
+        "2026-10-11": {
+          "activity_ids": [
+            "20544195076"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2867.0
         }
       },
       "TrailRun": {
@@ -45513,7 +45571,7 @@
       }
     }
   },
-  "generated_at": "2026-10-10T19:03:48.428667+00:00",
+  "generated_at": "2026-10-11T19:16:31.767748+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
@@ -45540,6 +45598,10 @@
       "accent": "#72efdd",
       "label": "Nordic Ski"
     },
+    "Pickleball": {
+      "accent": "#00f5d4",
+      "label": "Pickleball"
+    },
     "Ride": {
       "accent": "#05ffa1",
       "label": "Ride"
@@ -45559,6 +45621,10 @@
     "Soccer": {
       "accent": "#00f5d4",
       "label": "Soccer"
+    },
+    "StairStepper": {
+      "accent": "#fee440",
+      "label": "Stair Stepper"
     },
     "Swim": {
       "accent": "#3a86ff",
@@ -45599,11 +45665,13 @@
     "Kayaking",
     "MountainBikeRide",
     "NordicSki",
+    "Pickleball",
     "Ride",
     "Rowing",
     "Run",
     "Snowshoe",
     "Soccer",
+    "StairStepper",
     "Swim",
     "TrailRun",
     "Velomobile",
