@@ -33148,5 +33148,18 @@
     "start_date_local": "2026-10-11T11:01:52Z",
     "type": "StairStepper",
     "year": 2026
+  },
+  {
+    "date": "2026-10-12",
+    "distance": 13209.4,
+    "elevation_gain": 83.0,
+    "id": "20556294934",
+    "moving_time": 4381.0,
+    "name": "\ud83c\udf42\ud83c\udf41",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-12T11:09:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
