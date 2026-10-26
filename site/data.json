@@ -23084,6 +23084,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/20727125087",
       "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 13,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20729915687",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45050,6 +45059,15 @@
           "distance": 6506.0,
           "elevation_gain": 22.0,
           "moving_time": 1804.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "20729915687"
+          ],
+          "count": 1,
+          "distance": 8767.0,
+          "elevation_gain": 55.0,
+          "moving_time": 3082.0
         }
       },
       "StairStepper": {
@@ -45825,7 +45843,7 @@
       }
     }
   },
-  "generated_at": "2026-10-25T17:59:17.962357+00:00",
+  "generated_at": "2026-10-26T20:13:57.339233+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
