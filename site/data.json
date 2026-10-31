@@ -23129,6 +23129,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20784652689",
       "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 18,
+      "name": "Evening Workout",
+      "subtype": "StairStepper",
+      "type": "StairStepper",
+      "url": "https://www.strava.com/activities/20796762764",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-31",
+      "hour": 12,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20807694264",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45122,6 +45140,15 @@
           "distance": 7081.7,
           "elevation_gain": 0.0,
           "moving_time": 2429.0
+        },
+        "2026-10-31": {
+          "activity_ids": [
+            "20807694264"
+          ],
+          "count": 1,
+          "distance": 10613.8,
+          "elevation_gain": 38.0,
+          "moving_time": 3563.0
         }
       },
       "StairStepper": {
@@ -45133,6 +45160,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2867.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            "20796762764"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3825.0
         }
       },
       "TrailRun": {
@@ -45915,7 +45951,7 @@
       }
     }
   },
-  "generated_at": "2026-10-30T19:47:08.709814+00:00",
+  "generated_at": "2026-10-31T18:56:12.738324+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
