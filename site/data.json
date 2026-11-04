@@ -23183,6 +23183,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20843947020",
       "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20857164342",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45203,6 +45212,15 @@
           "distance": 11280.7,
           "elevation_gain": 28.0,
           "moving_time": 4301.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "20857164342"
+          ],
+          "count": 1,
+          "distance": 7309.1,
+          "elevation_gain": 31.0,
+          "moving_time": 2516.0
         }
       },
       "StairStepper": {
@@ -46023,7 +46041,7 @@
       }
     }
   },
-  "generated_at": "2026-11-03T20:42:46.218202+00:00",
+  "generated_at": "2026-11-04T20:59:35.729797+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
