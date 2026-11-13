@@ -33590,5 +33590,18 @@
     "start_date_local": "2026-11-11T13:57:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 30378.6,
+    "elevation_gain": 117.0,
+    "id": "20967654572",
+    "moving_time": 3614.0,
+    "name": "Zwift - Crit Cross in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-12T19:43:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
