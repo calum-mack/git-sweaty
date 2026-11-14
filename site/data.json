@@ -23264,6 +23264,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20967654572",
       "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 10,
+      "name": "Zwift",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20988495125",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45380,6 +45389,15 @@
           "distance": 30378.6,
           "elevation_gain": 117.0,
           "moving_time": 3614.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "20988495125"
+          ],
+          "count": 1,
+          "distance": 45657.0,
+          "elevation_gain": 487.0,
+          "moving_time": 5871.0
         }
       },
       "WeightTraining": {
@@ -46187,7 +46205,7 @@
       }
     }
   },
-  "generated_at": "2026-11-13T21:05:32.464951+00:00",
+  "generated_at": "2026-11-14T19:36:37.737682+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
