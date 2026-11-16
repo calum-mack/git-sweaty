@@ -23282,6 +23282,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20992163655",
       "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 11,
+      "name": "Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21002040624",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 14,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/21003185253",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45407,6 +45425,15 @@
           "distance": 45657.0,
           "elevation_gain": 487.0,
           "moving_time": 5871.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "21002040624"
+          ],
+          "count": 1,
+          "distance": 46706.7,
+          "elevation_gain": 416.0,
+          "moving_time": 5560.0
         }
       },
       "Walk": {
@@ -46221,11 +46248,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3023.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "21003185253"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3430.0
         }
       }
     }
   },
-  "generated_at": "2026-11-15T20:02:05.923680+00:00",
+  "generated_at": "2026-11-16T23:35:23.246983+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
