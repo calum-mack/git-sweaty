@@ -33694,5 +33694,18 @@
     "start_date_local": "2026-11-17T12:55:36Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 5006.8,
+    "elevation_gain": 59.0,
+    "id": "21040230237",
+    "moving_time": 1599.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-18T14:55:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
