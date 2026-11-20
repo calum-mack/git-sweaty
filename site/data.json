@@ -23345,6 +23345,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/21041249171",
       "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 18,
+      "name": "Zwift - W02 Thu",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21054000500",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-20",
+      "hour": 12,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/21063376919",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45515,6 +45533,15 @@
           "distance": 22483.6,
           "elevation_gain": 287.0,
           "moving_time": 2907.0
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "21054000500"
+          ],
+          "count": 1,
+          "distance": 31250.8,
+          "elevation_gain": 223.0,
+          "moving_time": 3905.0
         }
       },
       "Walk": {
@@ -46347,11 +46374,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3651.0
+        },
+        "2026-11-20": {
+          "activity_ids": [
+            "21063376919"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4472.0
         }
       }
     }
   },
-  "generated_at": "2026-11-19T22:30:43.254740+00:00",
+  "generated_at": "2026-11-20T22:03:19.860205+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",
