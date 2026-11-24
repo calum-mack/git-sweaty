@@ -23399,6 +23399,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/21100441213",
       "year": 2026
+    },
+    {
+      "date": "2026-11-24",
+      "hour": 9,
+      "name": "Zwift - W03 Tue",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21110188651",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45605,6 +45614,15 @@
           "distance": 78317.1,
           "elevation_gain": 473.0,
           "moving_time": 9079.0
+        },
+        "2026-11-24": {
+          "activity_ids": [
+            "21110188651"
+          ],
+          "count": 1,
+          "distance": 34245.1,
+          "elevation_gain": 320.0,
+          "moving_time": 4216.0
         }
       },
       "Walk": {
@@ -46459,7 +46477,7 @@
       }
     }
   },
-  "generated_at": "2026-11-24T01:57:42.644960+00:00",
+  "generated_at": "2026-11-24T23:41:36.791946+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43325823",
   "repo": "calum-mack/git-sweaty",

@@ -33798,5 +33798,18 @@
     "start_date_local": "2026-11-23T14:15:13Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 34245.1,
+    "elevation_gain": 320.0,
+    "id": "21110188651",
+    "moving_time": 4216.0,
+    "name": "Zwift - W03 Tue",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-24T09:47:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
