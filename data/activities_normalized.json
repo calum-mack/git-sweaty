@@ -33824,5 +33824,31 @@
     "start_date_local": "2026-11-25T13:21:16Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 40304.1,
+    "elevation_gain": 495.0,
+    "id": "21135669234",
+    "moving_time": 4532.0,
+    "name": "Zwift - W03 Thu",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-26T10:54:34Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21136879746",
+    "moving_time": 3825.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-26T13:09:44Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
